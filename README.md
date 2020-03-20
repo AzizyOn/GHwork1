@@ -1,2 +1,2 @@
 # GHwork1
-my related git hub work
+This is my related git hub work folder in the project github
